@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 235" width="640" height="235"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00e5ff"/><stop offset="1" stop-color="#7a5cff"/></linearGradient></defs>
+<rect x="1" y="1" width="638" height="233" rx="14" fill="#05080c" stroke="#123541"/>
+<rect x="1" y="1" width="638" height="233" rx="14" fill="none" stroke="url(#g)" stroke-width="2.5" stroke-dasharray="160 1500"><animate attributeName="stroke-dashoffset" values="0;-1660" dur="7s" repeatCount="indefinite"/></rect>
+<text x="24" y="38" font-family="'Times New Roman',Times,serif" font-size="14" letter-spacing="3" fill="#00e5ff">ABOUT ME</text>
+<text x="24" y="72" font-family="'Times New Roman',Times,serif" font-size="16" fill="#d3e0e5">I'm a Computer Science student at SVVV, Indore, passionate about building scalable</text>
+<text x="24" y="96" font-family="'Times New Roman',Times,serif" font-size="16" fill="#d3e0e5">web applications and solving real-world problems. I love working with Python,</text>
+<text x="24" y="120" font-family="'Times New Roman',Times,serif" font-size="16" fill="#d3e0e5">FastAPI, React and exploring the potential of AI/ML and Cloud technologies. Always</text>
+<text x="24" y="144" font-family="'Times New Roman',Times,serif" font-size="16" fill="#d3e0e5">learning, always building!</text>
+<rect x="24" y="198" width="140" height="26" rx="13" fill="#0a2630" stroke="#0e4a5a"><animate attributeName="stroke" values="#0e4a5a;#00e5ff;#0e4a5a" dur="3s" begin="0.12s" repeatCount="indefinite"/></rect><text x="94.0" y="216" text-anchor="middle" font-family="'Times New Roman',Times,serif" font-size="14" fill="#7ef3ff">Problem Solver</text>
+<rect x="172" y="198" width="124" height="26" rx="13" fill="#0a2630" stroke="#0e4a5a"><animate attributeName="stroke" values="#0e4a5a;#00e5ff;#0e4a5a" dur="3s" begin="0.86s" repeatCount="indefinite"/></rect><text x="234.0" y="216" text-anchor="middle" font-family="'Times New Roman',Times,serif" font-size="14" fill="#7ef3ff">Fast Learner</text>
+<rect x="304" y="198" width="116" height="26" rx="13" fill="#0a2630" stroke="#0e4a5a"><animate attributeName="stroke" values="#0e4a5a;#00e5ff;#0e4a5a" dur="3s" begin="1.52s" repeatCount="indefinite"/></rect><text x="362.0" y="216" text-anchor="middle" font-family="'Times New Roman',Times,serif" font-size="14" fill="#7ef3ff">Team Player</text>
+<rect x="428" y="198" width="148" height="26" rx="13" fill="#0a2630" stroke="#0e4a5a"><animate attributeName="stroke" values="#0e4a5a;#00e5ff;#0e4a5a" dur="3s" begin="2.14s" repeatCount="indefinite"/></rect><text x="502.0" y="216" text-anchor="middle" font-family="'Times New Roman',Times,serif" font-size="14" fill="#7ef3ff">Tech Enthusiast</text>
+</svg>
